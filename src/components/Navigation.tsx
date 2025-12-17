@@ -18,7 +18,7 @@ const Navigation = () => {
             onClick={() => scrollTo("hero")}
             className="font-serif text-4xl text-primary-foreground tracking-tight"
           >
-            Akash Parma
+            Akash Parmar
           </button>
 
           <button
