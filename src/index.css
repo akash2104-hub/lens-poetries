@@ -11,7 +11,12 @@
   font-weight: 400;
   font-style: normal;
 }
-
+@font-face {
+  font-family: 'Arome Display';
+  src: url('A:\Website\Akash Parmar\public\Arome Display.ttf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
 
 @tailwind base;
 @tailwind components;

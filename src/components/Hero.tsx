@@ -1,5 +1,6 @@
 import heroImage from "@/assets/hero-image.jpg";
 import { ArrowDown } from "lucide-react";
+import heroImage2 from "@/assets/hero-image2.jpg";
 
 const Hero = () => {
   return (

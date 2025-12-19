@@ -54,7 +54,8 @@ export default {
         serif: ["Instrument Serif", "serif"],
         sans: ["DM Sans", "system-ui", "sans-serif"],
         signature: ["Greatvibes-Regular", "cursive"],
-        akash: ["Denike-Regular"],
+        akash: ["Kugile_Demo", "Denike-Regular"],
+        akash2: ["Arome Display"],
       },
       borderRadius: {
         lg: "var(--radius)",
