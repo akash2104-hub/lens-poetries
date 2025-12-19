@@ -59,7 +59,7 @@
 
 // export default About;
 
-import gallery3 from "@/assets/hero-image2.jpg";
+import gallery2 from "@/assets/hero-image2.jpg";
 
 const About = () => {
   return (
@@ -105,7 +105,7 @@ const About = () => {
           <div className="lg:col-span-7 lg:order-1">
             <div className="relative aspect-[4/5] overflow-hidden">
               <img
-                src={gallery3}
+                src={gallery2}
                 alt="Akash Parmar portrait"
                 className="w-full h-full object-cover"
               />
