@@ -59,8 +59,7 @@
 
 // export default About;
 
-import gallery2 from "@/assets/hero-image2.jpg";
-
+import gallery2 from "@/assets/gallery-2.jpg";
 const About = () => {
   return (
     <section id="about" className="py-24 md:py-32 border-t border-border">
